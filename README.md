@@ -1,0 +1,2 @@
+# pythonaaa
+comecei python fml
